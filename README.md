@@ -7,17 +7,17 @@ goagent 3.2.3 [http://git.io/goa](https://nodeload.github.com/goagent/goagent/le
 ## Documents
 |    |   |
 | --------   | :----  |
-| Simple Guide | https://github.com/goagent/goagent/blob/wiki/SimpleGuide.md |
-| Graphic Guide | https://github.com/goagent/goagent/blob/wiki/InstallGuide.md |
-| FAQ | https://github.com/goagent/goagent/blob/wiki/FAQ.md |
-| Configurations | https://github.com/goagent/goagent/blob/wiki/ConfigIntroduce.md.ini |
-| Spam List | https://github.com/goagent/goagent/blob/wiki/SpamList.md |
-| History | https://github.com/goagent/goagent/blob/wiki/History.md |
+| Simple Guide | https://github.com/tjroger/goagent/blob/wiki/SimpleGuide.md |
+| Graphic Guide | https://github.com/tjroger/goagent/blob/wiki/InstallGuide.md |
+| FAQ | https://github.com/tjroger/goagent/blob/wiki/FAQ.md |
+| Configurations | https://github.com/tjroger/goagent/blob/wiki/ConfigIntroduce.md.ini |
+| Spam List | https://github.com/tjroger/goagent/blob/wiki/SpamList.md |
+| History | https://github.com/tjroger/goagent/blob/wiki/History.md |
 
 ## Code
 | | |
 | --------   | :----  |
-| proxy.py | https://github.com/goagent/goagent |
+| proxy.py | https://github.com/tjroger/goagent |
 | python27.exe | https://github.com/goagent/pybuild |
 | goagent.exe | https://github.com/goagent/taskbar |
 
